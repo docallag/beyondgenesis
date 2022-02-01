@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="29 AB 5F 49" />
-        </p>
+//         </p> 
       </main>
 
 //        <Footer /> 
