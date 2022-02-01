@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Beyond Genesis!</title>
-<!--        <link rel="icon" href="/favicon.ico" /> -->
+//        <link rel="icon" href="/favicon.ico" /> 
       </Head>
 
       <main>
@@ -15,7 +15,7 @@ export default function Home() {
         </p>
       </main>
 
-      <!-- <Footer /> -->
+//        <Footer /> 
     </div>
   )
 }
