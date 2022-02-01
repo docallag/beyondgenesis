@@ -7,15 +7,11 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Beyond Genesis!</title>
-//        <link rel="icon" href="/favicon.ico" /> 
       </Head>
 
       <main>
         <Header title="29 AB 5F 49" />
-//         </p> 
       </main>
-
-//        <Footer /> 
     </div>
   )
 }
