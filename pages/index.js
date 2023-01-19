@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="29 AB 5F 49" />
+        <Header title="Coming soon ..." />
       </main>
     </div>
   )
